@@ -1,0 +1,32 @@
+[
+  {
+    "title": "the immortal man",
+    "genre": "crime drama",
+    "rating": 8.0
+  },
+  {
+    "title": "game of thrones",
+    "genre": "old",
+    "rating": 9.9
+  },
+  {
+    "title": "old guard",
+    "genre": "action",
+    "rating": 8.0
+  },
+  {
+    "title": "bleach",
+    "genre": "fantasy",
+    "rating": 8.0
+  },
+  {
+    "title": "rocky",
+    "genre": "action",
+    "rating": 5.0
+  },
+  {
+    "title": "toxix",
+    "genre": "action",
+    "rating": 8.0
+  }
+]

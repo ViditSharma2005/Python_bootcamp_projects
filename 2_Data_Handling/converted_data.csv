@@ -1,0 +1,9 @@
+id,name,email,location,is_active
+101,Riya,riya@example.com,Delhi,True
+102,Aman,aman@example.com,Mumbai,False
+103,Priya,priya@example.com,Bangalore,True
+104,Raj,raj@example.com,Pune,True
+105,Ananya,ananya@example.com,Chennai,False
+106,Vikram,vikram@example.com,Hyderabad,True
+107,Divya,divya@example.com,Kolkata,True
+108,Arjun,arjun@example.com,Delhi,False

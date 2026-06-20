@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+2_Data_Handling/venv/

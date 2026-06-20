@@ -1,0 +1,58 @@
+[
+  {
+    "id": 101,
+    "name": "Riya",
+    "email": "riya@example.com",
+    "location": "Delhi",
+    "is_active": true
+  },
+  {
+    "id": 102,
+    "name": "Aman",
+    "email": "aman@example.com",
+    "location": "Mumbai",
+    "is_active": false
+  },
+  {
+    "id": 103,
+    "name": "Priya",
+    "email": "priya@example.com",
+    "location": "Bangalore",
+    "is_active": true
+  },
+  {
+    "id": 104,
+    "name": "Raj",
+    "email": "raj@example.com",
+    "location": "Pune",
+    "is_active": true
+  },
+  {
+    "id": 105,
+    "name": "Ananya",
+    "email": "ananya@example.com",
+    "location": "Chennai",
+    "is_active": false
+  },
+  {
+    "id": 106,
+    "name": "Vikram",
+    "email": "vikram@example.com",
+    "location": "Hyderabad",
+    "is_active": true
+  },
+  {
+    "id": 107,
+    "name": "Divya",
+    "email": "divya@example.com",
+    "location": "Kolkata",
+    "is_active": true
+  },
+  {
+    "id": 108,
+    "name": "Arjun",
+    "email": "arjun@example.com",
+    "location": "Delhi",
+    "is_active": false
+  }
+]
